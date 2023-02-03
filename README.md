@@ -1,2 +1,2 @@
-# handsome-CDN
-handsome by Typecho 静态资源加速仓库
+# Blog
+个人Blog的静态资源加速仓库
